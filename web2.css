@@ -1,0 +1,114 @@
+.nag{
+    background-color: rgb(35, 35, 101);
+    color: white;
+    text-align: center;
+    margin: 20px;
+    border-radius: 10px;
+    padding: 40px;
+
+}
+.nag1{
+    background-color: rgb(230, 228, 120);
+    color: black;
+    text-align: center;
+    margin: 20px;
+    border-radius: 10px;
+    padding: 40px;
+
+}
+
+.cir{
+    border-radius: 100px;
+    padding:30px;
+    margin-left: 700px;
+    margin-right: 700px;
+    background-color: #F4976C;
+}
+
+#fir{
+    background-color: #F4976C;
+    text-align: center;
+    margin: 20px;
+    border-radius: 30px;
+    padding: 20px;
+}
+
+#fir1{
+    background-color: #F4976C;
+    text-align: center;
+    margin: 20px;
+    margin-left: 150px;
+    border-radius: 30px;
+    padding: 20px;
+}
+
+
+#firl{
+    background-color: #F4976C;
+    text-align: center;
+    margin: 50px;
+    margin-left: 100px;
+    border-radius: 30px;
+    padding: 10px;
+}
+
+#firl2{
+    background-color: #F4976C;
+    text-align: center;
+    margin: 50px;
+    margin-left: 50px;
+    border-radius: 30px;
+    padding: 10px;
+    
+}
+
+
+#firl3{
+
+    background-color:#F4976C;
+    text-align: center;
+    margin: 50px;
+    margin-left: 50px;
+    border-radius: 30px;
+    padding: 10px;
+    
+}
+
+#id{
+    margin-top: 50px;
+}
+
+
+    
+    .vl {
+        border-left: 6px solid black;
+        height: 580px;
+        position: absolute;
+        left: 50%;
+        margin-left: -3px;
+        margin-top:470px;
+        top: 0;
+        z-index: -1;
+      }
+
+      .hor{
+        margin-left: 200px;
+        margin-right: 200px;
+        
+       
+      }
+      .img{
+        z-index: -1;
+      }
+      
+     
+     #th{
+        background-color:  #F4976C;
+        border-radius: 100px;
+        text-align: center;
+        padding: 30px;
+        margin-right: 830px;
+        margin-left: 705px;
+        margin-bottom: 40px;
+        
+     }
